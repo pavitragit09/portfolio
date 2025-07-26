@@ -1,0 +1,9 @@
+.about-section {
+  padding: 2rem;
+  background-color: #f0f0f0;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+}
+.App.dark .about-section {
+  background-color: #1e1e1e;
+}

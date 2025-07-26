@@ -1,0 +1,12 @@
+.toggle-button {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  padding: 0.5rem 1rem;
+  border: none;
+  background-color: #333;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  z-index: 1000;
+}
